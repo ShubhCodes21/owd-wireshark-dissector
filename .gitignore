@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Dataset files — too large for git
+*.pcap
+*.pcapng
+owd_dataset.csv
+demo_metrics.json
+
+# Plot outputs
+demo_plots/
+*.png
